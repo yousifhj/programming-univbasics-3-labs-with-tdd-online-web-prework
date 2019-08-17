@@ -1,2 +1,3 @@
-first_number = 
+first_number = 1 
+
 
