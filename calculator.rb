@@ -3,4 +3,4 @@ second_number = 5
 sum = 15 
 difference = 5 
 product = 50
-quotileaent = 2 
+quotient = 2 
